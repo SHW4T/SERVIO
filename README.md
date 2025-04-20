@@ -84,7 +84,7 @@ This project is a smart door security system built using the ESP32-CAM module, P
 
 ## Demo Video
 
-Watch the demo video on [LinkedIn]() to see the system in action
+Watch the demo video on [LinkedIn](https://www.linkedin.com/posts/shashwat-thakur-2b2618354_iot-esp32-homesecurity-activity-7319788802217025608-44Kj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFheUKYBKwZZDEvvdUkR3gMmMJ6eP8me_zg) to see the system in action
 
 *Note: The response in the video is slower than usual due to network issues during recording.*
 
